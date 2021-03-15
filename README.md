@@ -2,9 +2,6 @@
 ## 实验
 ### 实验一：服务器申请+创建VPC+Docker部署
 文档：  
-[https://github.com/2021-web/lab1_Doc](https://github.com/2021-web/lab1_Doc)  
-相关代码：  
-[https://github.com/2021-web/lab1_Code](https://github.com/2021-web/lab1_Code)
 
 ### 实验二：Three.js+Socket.io 
 文档：
