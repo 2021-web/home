@@ -6,11 +6,15 @@
 
 代码：<br/>
 [https://github.com/2021-web/lab1_Code](https://github.com/2021-web/lab1_Code)
+<br/>
 
-### 实验二：Three.js+Socket.io 
+[基于HTML5的立体五子棋实践](https://github.com/2021-web/lab1_Code)
+<br/>
+
+### 实验二：Spring Boot 与 MyBatis  
 文档：
 
-### 实验三：Spring Boot 与 MyBatis  
+### 实验三：Three.js+Socket.io 
 文档：
 
 ## 大项目
