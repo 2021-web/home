@@ -12,7 +12,7 @@
 <br/>
 
 ### 实验二：Spring Boot 与 MyBatis  
-文档：
+文档：[https://github.com/2021-web/lab2](https://github.com/2021-web/lab2)
 
 ### 实验三：Three.js+Socket.io 
 文档：
