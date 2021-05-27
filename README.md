@@ -15,7 +15,7 @@
 文档：[https://github.com/2021-web/lab2](https://github.com/2021-web/lab2)
 
 ### 实验三：Three.js+Socket.io 
-文档：
+文档：[https://github.com/2021-web/lab3](https://github.com/2021-web/lab3)
 
 ## 大项目
 任选其一  
